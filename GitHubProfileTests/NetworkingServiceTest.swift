@@ -1,15 +1,14 @@
 //
-//  GitHubProfileTests.swift
+//  NetworkingServiceTest.swift
 //  GitHubProfileTests
 //
-//  Created by Marco Valentino on 10/20/17.
+//  Created by Marco Valentino on 10/31/17.
 //  Copyright © 2017 Marco Valentino. All rights reserved.
 //
 
 import XCTest
-@testable import GitHubProfile
 
-class GitHubProfileTests: XCTestCase {
+class NetworkingServiceTest: XCTestCase {
     
     override func setUp() {
         super.setUp()
